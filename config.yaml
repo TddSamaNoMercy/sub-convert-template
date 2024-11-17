@@ -7,7 +7,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🟢 直连
-    url: "https://hongxingdl.com/hxvip?token=890f95343f3d5861200e956f8c1f05aa"
+    url: ""
   Airport_02:
     type: http
     interval: 1800
@@ -16,7 +16,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🟢 直连
-    url: "https://jmssub.net/members/getsub.php?service=900040&id=be72c5ad-f2b1-4bf1-89cb-bfa2e72e9e66"
+    url: ""
 
 
 unified-delay: true
